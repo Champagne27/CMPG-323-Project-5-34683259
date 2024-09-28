@@ -67,8 +67,8 @@ The NWU Tech Trends project focuses on showcasing the benefits realized through 
 This README.md file explains how users can navigate and utilize the report effectively.
 
 ### Reference List
-1. [Microsoft Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
-2. [Power BI Community Forum](https://community.powerbi.com/)
-3. [Power BI Desktop Installation](https://powerbi.microsoft.com/desktop/)
-4. [Data Visualization Best Practices](https://www.tableau.com/learn/articles/data-visualization-best-practices)
-5. [Understanding Power BI Security](https://docs.microsoft.com/en-us/power-bi/security)
+1. Microsoft, 2024. Power BI Documentation. Available at: https://docs.microsoft.com/en-us/power-bi/ [Accessed 28 September 2024].
+2. Power BI Community, 2024. Community Forum. Available at: https://community.powerbi.com/ [Accessed 28 September 2024].
+3. Microsoft, 2024. Power BI Desktop Installation. Available at: https://powerbi.microsoft.com/desktop/ [Accessed 28 September 2024].
+4. Tableau, 2024. Data Visualization Best Practices. Available at: https://www.tableau.com/learn/articles/data-visualization-best-practices [Accessed 28 September 2024].
+5. Microsoft, 2024. Understanding Power BI Security. Available at: https://docs.microsoft.com/en-us/power-bi/security [Accessed 28 September 2024].
