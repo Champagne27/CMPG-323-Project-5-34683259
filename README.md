@@ -1,5 +1,6 @@
 # CMPG-323-Project-5-34683259
 # NWU Tech Trends Benefit Realisation Report
+![imag](https://github.com/Champagne27/CMPG-323-Project-5-34683259/blob/main/imag.png)
 
 ## Overview
 The NWU Tech Trends project focuses on showcasing the benefits realized through automation by reporting on time saved across various projects and clients. This Power BI report serves as a centralized tool for stakeholders to visualize important data regarding customer statuses and orders, leveraging the existing Microsoft licensing agreements in place.
